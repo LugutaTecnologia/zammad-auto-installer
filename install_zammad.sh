@@ -9,6 +9,9 @@
 
 set -e
 
+echo "==> 🧼 Verificando atualizações do sistema base (apt update, upgrade e autoremove)"
+apt update && apt upgrade -y && apt autoremove -y
+
 echo "==> ⚙️  Iniciando instalação automatizada do Zammad"
 
 # Solicita informações
