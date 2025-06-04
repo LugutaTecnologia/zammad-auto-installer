@@ -34,7 +34,7 @@ Script automatizado para instalação completa do [Zammad](https://zammad.org/) 
 Execute o script direto do GitHub com:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/LugutaTecnologia/zammad-auto-installer/main/install_zammad_final.sh)
+bash <(curl -s https://raw.githubusercontent.com/LugutaTecnologia/zammad-auto-installer/main/install_zammad.sh)
 ```
 
 Você será solicitado a informar:
